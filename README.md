@@ -93,6 +93,7 @@ Acknowledge any external resources, libraries, or individuals who have contribut
 - https://meyerweb.com/eric/tools/css/reset/ Utilized for styling reset.
 - https://getbootstrap.com/ Utilized for Bootstrap.
 - https://bootswatch.com/ Utilized for Bootstrap color theme.
+- https://unsplash.com/ Utilized for images
 
 - Tutorials or guides followed:
 
