@@ -39,21 +39,42 @@ In a post-COVID world, a lot of tabletop gaming groups have moved online and phy
 
 #### Learning and Insights
 
-- New skills or knowledge gained today.
+- 
 
 #### Next Steps
 
-- Goals or tasks for the next day.
+- Implement JavaScript to allow users to post ads to the site and save them in local storage.
 
 #### Additional Thoughts
 
-- Other thoughts or reflections on today's work.
+- 
 
 ---
 
 ### Day 2: [Date]
 
-_Repeat the same structure as Day 1_
+### Day 1: [12/12/2023]
+
+#### Today's Progress
+
+- 
+
+#### Challenges and Blockers
+
+- Challenge: To implement JavaScript to allow the user to make posts using the forms given on the page index.html
+- Blockers: Page was refreshing every time the Submit button was clicked. Solved this issue by using preventDefault().
+
+#### Learning and Insights
+
+- Learned how to implement JavaScript to allow for local storage of data.
+
+#### Next Steps
+
+- Implement overflow scrolling.
+
+#### Additional Thoughts
+
+- Today's task wasn't nearly as daunting as I thought it would be. I very much enjoyed working in JavaScript.
 
 ---
 
@@ -93,9 +114,12 @@ Acknowledge any external resources, libraries, or individuals who have contribut
 - https://meyerweb.com/eric/tools/css/reset/ Utilized for styling reset.
 - https://getbootstrap.com/ Utilized for Bootstrap.
 - https://bootswatch.com/ Utilized for Bootstrap color theme.
-- https://unsplash.com/ Utilized for images
+- https://unsplash.com/ Utilized for images.
+- https://developer.mozilla.org/en-US/ Utilized for overflow scrolling and preventDefault().
 
 - Tutorials or guides followed:
+- https://www.youtube.com/watch?v=cU8ExCAIo7U  Followed tutorial for implementing JavaScript to allow users to post ads to index.html.
+- Used ChatGPT for assistance with local storage in JavaScript, organizing JavaScript, CSS, and HTML code and adding comments on each section.
 
 - Assistance from mentors, instructors, or peers:
 
