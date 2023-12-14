@@ -39,7 +39,7 @@ In a post-COVID world, a lot of tabletop gaming groups have moved online and phy
 
 #### Learning and Insights
 
-- 
+-
 
 #### Next Steps
 
@@ -47,17 +47,17 @@ In a post-COVID world, a lot of tabletop gaming groups have moved online and phy
 
 #### Additional Thoughts
 
-- 
+-
 
 ---
 
-### Day 2: [Date]
-
-### Day 1: [12/12/2023]
+### Day 2: [12/12/2023]
 
 #### Today's Progress
 
-- 
+- Added Javascript to script.js to take data submitted by the user and create cards in Messages Section.
+- Added JavaScript to script.js to utilize local storage so posts stay on the page after refreshing or closing browser.
+- Added JavaScript to script.js to clear data from input fields after submit button is clicked.
 
 #### Challenges and Blockers
 
@@ -78,9 +78,30 @@ In a post-COVID world, a lot of tabletop gaming groups have moved online and phy
 
 ---
 
-### Day 3: [Date]
+### Day 3: [12/13/2023]
 
-_Repeat the same structure as Day 1_
+#### Today's Progress
+
+- Added CSS for scrollbar styling in Messages Section.
+-
+
+#### Challenges and Blockers
+
+- Challenge: To implement scrollbar styling in CSS.
+- Blockers:
+
+#### Learning and Insights
+
+- Learned a new pseudo-element for CSS (auto::-webkit-scrollbar).
+
+#### Next Steps
+
+- Add validation to form.
+- Add additional styling and polish.
+
+#### Additional Thoughts
+
+-
 
 ---
 
@@ -118,8 +139,9 @@ Acknowledge any external resources, libraries, or individuals who have contribut
 - https://developer.mozilla.org/en-US/ Utilized for overflow scrolling and preventDefault().
 
 - Tutorials or guides followed:
-- https://www.youtube.com/watch?v=cU8ExCAIo7U  Followed tutorial for implementing JavaScript to allow users to post ads to index.html.
-- Used ChatGPT for assistance with local storage in JavaScript, organizing JavaScript, CSS, and HTML code and adding comments on each section.
+- https://www.youtube.com/watch?v=cU8ExCAIo7U Followed tutorial for implementing JavaScript to allow users to post ads to index.html.
+- Used ChatGPT for assistance with local storage in JavaScript, organizing JavaScript, CSS, and HTML code and adding comments on each section, and CSS scrollbar styling.
+-
 
 - Assistance from mentors, instructors, or peers:
 
