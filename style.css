@@ -1,3 +1,13 @@
+/* Title Section */
+#title {
+  background-image: url('https://images.unsplash.com/photo-1594845222889-c20e5b48fb53?q=80&w=2060&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  background-position: center;
+}
+
+#title-text {
+  --bs-bg-opacity: 0.5;
+}
+
 /* Overflow Scrolling */
 section.auto {
   overflow: auto;

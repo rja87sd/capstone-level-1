@@ -47,9 +47,7 @@ In a post-COVID world, a lot of tabletop gaming groups have moved online and phy
 
 #### Additional Thoughts
 
--
-
----
+- ***
 
 ### Day 2: [12/12/2023]
 
@@ -101,13 +99,39 @@ In a post-COVID world, a lot of tabletop gaming groups have moved online and phy
 
 #### Additional Thoughts
 
--
+- ***
 
----
+### Day 4: [12/14/2023]
 
-### Day 4: [Date]
+#### Today's Progress
 
-_Repeat the same structure as Day 1_
+- Added validation for input fields on index.html.
+- Added validation for input fields on about.html.
+- Renamed Untitled.png to Layout.png for clarity.
+- Moved copyright disclaimer into footer element in index.html and about.html.
+- Cleaned up copyright information and added contact information and social media links.
+- Made changes to cards on about.html to make them of even height with one another using Bootstrap grid, d-flex, flex-column, and flex-fill.
+- Changed card images on about.html.
+- Added background image to title section in index.html.
+- Changed opacity of background color over background image in title section in index.html.
+
+#### Challenges and Blockers
+
+- Challenge: To implement form input validation.
+- Blockers:
+
+#### Learning and Insights
+
+- Read MDN documents on form validation.
+
+#### Next Steps
+
+- Add more content.
+- Add additional styling and polish.
+
+#### Additional Thoughts
+
+- It's amazing what you don't know or think to add to a project once all the major stuff is done. You sit back and marvel at what you've already created and then think to yourself, "Okay, the page looks good. It functions as I intended it to. Now what can I add to it?" Then your mind draws a total blank.
 
 ---
 
@@ -136,14 +160,14 @@ Acknowledge any external resources, libraries, or individuals who have contribut
 - https://getbootstrap.com/ Utilized for Bootstrap.
 - https://bootswatch.com/ Utilized for Bootstrap color theme.
 - https://unsplash.com/ Utilized for images.
-- https://developer.mozilla.org/en-US/ Utilized for overflow scrolling and preventDefault().
+- https://developer.mozilla.org/en-US/ Utilized for overflow scrolling, preventDefault(), and form validation.
 
 - Tutorials or guides followed:
 - https://www.youtube.com/watch?v=cU8ExCAIo7U Followed tutorial for implementing JavaScript to allow users to post ads to index.html.
-- Used ChatGPT for assistance with local storage in JavaScript, organizing JavaScript, CSS, and HTML code and adding comments on each section, and CSS scrollbar styling.
--
+- Used ChatGPT for assistance with local storage in JavaScript, CSS scrollbar styling, organizing JavaScript, CSS, and HTML code, and adding code comments on each section. Also utilized for copyright section.
 
 - Assistance from mentors, instructors, or peers:
+- Lewis Benson offered tips on local storage implementation in JavaScript, background color styling via Bootstrap and CSS, and how to utilize ChatGPT for code assistance.
 
 ---
 

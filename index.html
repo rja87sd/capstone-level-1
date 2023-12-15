@@ -52,18 +52,18 @@
     </nav>
 
     <main>
-        <!-- Title Section -->
-        <section id="title" class="container mt-5">
-            <div class="bg-dark text-light p-5 rounded-3 text-center">
-                <h1 class="display-4">
-                    LOOKING FOR GAMERS
-                </h1>
-                <hr class="my-4">
-                <h2>
-                    Bringing Everyone to the Table
-                </h2>
-            </div>
-        </section>
+            <!-- Title Section -->
+            <section id="title" class="container mt-5 rounded-3">
+                <div id="title-text" class="bg-dark text-light p-5 text-center rounded-3">
+                    <h1 class="display-4">
+                        LOOKING FOR GAMERS
+                    </h1>
+                    <hr class="my-4">
+                    <h2>
+                        Bringing Everyone to the Table
+                    </h2>
+                </div>
+            </section>
 
         <!-- Form Section -->
         <section id="formContainer" class="container my-5">
@@ -74,16 +74,18 @@
             <form class="w-50 m-auto">
                 <div class="form-group">
                     <label for="email">Email</label>
-                    <input name="inputEmail" id="email" type="email" class="form-control">
+                    <input name="inputEmail" id="email" type="email" class="form-control"
+                        placeholder="example@email.com" required aria-required="true">
                 </div>
                 <div class="form-group">
                     <label for="about">About</label>
-                    <input name="inputAbout" id="about" type="text" class="form-control">
+                    <input name="inputAbout" id="about" type="text" class="form-control"
+                        placeholder="Example: DM Looking for 5e D&D Group" required aria-required="true">
                 </div>
                 <div class="form-group">
                     <label for="message">Message</label>
-                    <textarea name="inputMessage" id="message" rows="3" placeholder="Your message"
-                        class="form-control"></textarea>
+                    <textarea name="inputMessage" id="message" rows="3" placeholder="Your message" class="form-control"
+                        required aria-required="true"></textarea>
                 </div>
                 <button class="btn btn-primary">Submit</button>
             </form>
@@ -96,8 +98,15 @@
 
         <hr class="my-4">
 
-        <!-- Copyright Information -->
-        <h6 class="text-center">D&D Beyond, Dice Game Depot, and DriveThru RPG are &copy; their respective owners.</h6>
+        <!-- Footer -->
+        <footer>
+            <p class="text-center">&copy; 2023 Ryan Arnold | Contact: info@lookingforgamers.com | Follow us: <a
+                    href="#">Twitter</a>,
+                <a href="#">Facebook</a> | D&D Beyond, Dice Game Depot, and DriveThru RPG are &copy; their respective
+                owners.
+            </p>
+        </footer>
+
 
     </main>
 
